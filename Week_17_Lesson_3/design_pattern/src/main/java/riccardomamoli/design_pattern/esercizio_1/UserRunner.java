@@ -22,6 +22,6 @@ public class UserRunner implements CommandLineRunner {
 
         System.out.println("Nome: " + userData.getNomeCompleto());
         System.out.println("Eta: " + userData.getEta());
-        
+
     }
 }

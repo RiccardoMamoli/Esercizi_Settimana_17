@@ -2,13 +2,6 @@ package riccardomamoli.design_pattern.esercizio_2;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
-import riccardomamoli.design_pattern.esercizio_1.DataSource;
-import riccardomamoli.design_pattern.esercizio_1.Info;
-import riccardomamoli.design_pattern.esercizio_1.InfoAdapter;
-import riccardomamoli.design_pattern.esercizio_1.UserData;
-
-import java.lang.reflect.Array;
-import java.time.LocalDate;
 import java.util.Arrays;
 
 @Component
